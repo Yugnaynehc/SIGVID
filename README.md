@@ -20,18 +20,21 @@ The reading list for Special Interest Group on Visual Information Description
 ## Video Captioning
 * [Early Embedding and Late Reranking for Video Captioning](lixirong.net/pub/mm2016-video2text.pdf)[ACMMM 2016 Grand Challenge Award]
 * [Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks](https://arxiv.org/abs/1510.07712)[CVPR 2016 Oral]
-* [Frame-and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation](https://arxiv.org/abs/1608.04959)
+* [Frame-and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation](https://arxiv.org/abs/1608.04959)[best in MSR Video to Language Challenge]
 
 
 
 
-## Question Answering
-
+## Visual Question Answering
+* [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)[ICCV 2015]
 
 
 ## Appendix
 ### Other Reading Lists
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers#caption)
 
 
 ### Project Demo
@@ -42,3 +45,7 @@ The reading list for Special Interest Group on Visual Information Description
 #### DenseCap
 * [DenseCap results browser](http://cs.stanford.edu/people/karpathy/densecap/browser/)
 * [Dense captioning of Boston Dynamics Atlas Robot](https://vimeo.com/173025372)
+
+#### Deeper LSTM+ normalized CNN for Visual Question Answering
+* [Github homepage](https://github.com/VT-vision-lab/VQA_LSTM_CNN)
+* [A live demo](http://cloudcv.org/vqa/)
